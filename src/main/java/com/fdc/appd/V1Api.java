@@ -3,6 +3,13 @@
  * https://openapi-generator.tech
  * Do not edit the class manually.
  */
+/*
+ * Copyright 2020 Fintech Open Source Foundation
+ *
+ * Distributed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0).
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
 package com.fdc.appd;
 
 import com.fdc.appd.model.ApplicationSearchResponseV1;
